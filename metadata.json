@@ -1,0 +1,6 @@
+{
+  "name": "Explora Valdivia y Chile",
+  "description": "App educativa interactiva con voz y juegos para niños de 6 años sobre Valdivia, la Región de Los Ríos, Chile y el paisaje natural y cultural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
